@@ -1,0 +1,1 @@
+# Diabetes_prediction_SVM_classifier_model
